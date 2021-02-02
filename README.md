@@ -30,7 +30,7 @@ Saved Recipes:
 ![Recipes:](assets/images/localStorage.png)
 
 Recipes:
-![Pecipe details](amazon/public/recipe.png)
+![Pecipe details](assets/images/recipe.png)
 
 
 
